@@ -1,0 +1,13 @@
+{
+    "1": {
+        "tex": "textures/defaultBlock.png"
+    },
+    "2": {
+        "tex": "textures/buildingBlock.png"
+    },
+    "3": {
+        "top": "textures/grass_txtr/grass_top.png",
+        "side": "textures/grass_txtr/grass_side.png",
+        "bottom": "textures/grass_txtr/grass_bottom.png"
+    }
+}
