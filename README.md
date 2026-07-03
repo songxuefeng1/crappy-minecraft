@@ -19,4 +19,4 @@
 **how to run**
    - 1. open the VS Code terminal *(see down)*
      ```{bash}
-     python parkou.py
+     python main.py
