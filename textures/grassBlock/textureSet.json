@@ -1,0 +1,9 @@
+{
+    "side_tex": "grass_side.png",
+    "top_tex": "grass_top.png",
+    "bottom_tex": "grass_bottom.png",
+    "particle_texs": [
+        "grass_particle1.png",
+        "grass_particle2.png"
+    ]
+}

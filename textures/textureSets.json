@@ -1,0 +1,10 @@
+{
+    "1": {
+        "name": "grass",
+        "texture_set": "grassBlock/textureSet.json"
+    },
+    "2": {
+        "name": "stone",
+        "texture_set": "stoneBlock/textureSet.json"
+    }
+}
