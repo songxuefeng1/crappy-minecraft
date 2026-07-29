@@ -1,0 +1,10 @@
+{
+    "side_tex": "glass.png",
+    "top_tex": "glass.png",
+    "bottom_tex": "glass.png",
+    "particle_texs": [
+        "glass_particle1.png",
+        "glass_particle2.png"
+    ],
+    "blockModelTemplate": "GlassTex"
+}

@@ -1,0 +1,10 @@
+{
+    "side_tex": "woodplank.png",
+    "top_tex": "woodplank.png",
+    "bottom_tex": "woodplank.png",
+    "particle_texs": [
+        "wood_particle1.png",
+        "wood_particle2.png"
+    ],
+    "blockModelTemplate": "block"
+}

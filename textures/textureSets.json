@@ -1,0 +1,22 @@
+{
+    "1": {
+        "name": "grass",
+        "texture_set": "grassBlock/textureSet.json"
+    },
+    "2": {
+        "name": "stone",
+        "texture_set": "stoneBlock/textureSet.json"
+    },
+    "3": {
+        "name": "sand",
+        "texture_set": "sandBlock/textureSet.json"
+    },
+    "4": {
+        "name": "wood_plank",
+        "texture_set": "woodplankBlock/textureSet.json"
+    },
+    "5": {
+        "name": "glass",
+        "texture_set": "glassBlock/textureSet.json"
+    }
+}

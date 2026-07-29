@@ -1,0 +1,9 @@
+{
+    "top_tex": "uknow.png",
+    "side_tex": "uknow.png",
+    "bottom_tex": "uknow.png",
+    "particle_texs": [
+        "white_cube"
+    ],
+    "blockModelTemplate": "block"
+}

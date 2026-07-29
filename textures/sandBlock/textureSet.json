@@ -1,0 +1,10 @@
+{
+    "side_tex": "sand.png",
+    "top_tex": "sand.png",
+    "bottom_tex": "sand.png",
+    "particle_texs": [
+        "sand_particle1.png",
+        "sand_particle2.png"
+    ],
+    "blockModelTemplate": "gravity"
+}
