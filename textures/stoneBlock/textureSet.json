@@ -1,9 +1,0 @@
-{
-    "side_tex": "stone.png",
-    "top_tex": "stone.png",
-    "bottom_tex": "stone.png",
-    "particle_texs": [
-        "stone_particle1.png",
-        "stone_particle2.png"
-    ]
-}
