@@ -20,3 +20,5 @@
    - 1. open the VS Code terminal *(see down)*
      ```{bash}
      python main.py
+**others & updates**
+   - see in UPDATE-xxxx.md
